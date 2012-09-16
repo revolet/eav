@@ -5,7 +5,7 @@ This Perl module implements an entity-attribute-value](http://en.wikipedia.org/w
 
 [Reddit](http://www.reddit.com/) is an example of a popular site using an EAV-like data model at some point.
 
-EAV Definitions
+Definitions
 ===============
 
 * **Entity**.  An entity is a primary data type, such as a user, comment, or post.
@@ -15,7 +15,7 @@ such as user.name, comment.text, and post.author.
 
 * **Value**.  Values are the actual data referenced by an attribute, such as "This is awesome." for comment.text.
 
-EAV Advantages
+Advantages
 ==========
 
 * **Simple, static schema.**  The EAV model only requires two tables, one for storing entities and another
