@@ -1,4 +1,4 @@
-eav
+EAV
 ===
 
 This Perl module implements an entity-attribute-value](http://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) (EAV) data model on top of many storage backends.
