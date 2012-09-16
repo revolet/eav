@@ -1,7 +1,9 @@
 EAV
 ===
 
-This Perl module implements an entity-attribute-value](http://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model) (EAV) data model on top of many storage backends.
+This Perl module implements an
+[entity-attribute-value](http://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
+(EAV) data model with many options for storage backends.
 
 [Reddit](http://www.reddit.com/) is an example of a popular site using an EAV-like data model at some point.
 
